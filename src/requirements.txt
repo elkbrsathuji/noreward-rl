@@ -23,20 +23,4 @@ numpy>=1.13.1
 olefile>=0.44
 pbr>=3.1.1
 Pillow>=4.2.1
-ppaquette-gym-doom>=0.0.3
--e git+https://github.com/ppaquette/gym-super-mario.git@2e5ee823b6090af3f99b1f62c465fc4b033532f4#egg=ppaquette_gym_super_mario
-protobuf>=3.1.0
-pyglet>=1.2.4
-PyOpenGL>=3.1.0
-PyYAML>=3.12
-requests>=2.20.0
-scipy>=0.19.1
-six>=1.10.0
-tensorflow>=0.12.0rc1
-Twisted>=17.5.0
-txaio>=2.8.0
-ujson==1.35
--e git+https://github.com/openai/universe.git@e8037a103d8871a29396c39b2a58df439bde3380#egg=universe
-urllib3>=1.21.1
-websocket-client>=0.44.0
-zope.interface>=4.4.2
+
